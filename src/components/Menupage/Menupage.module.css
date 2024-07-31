@@ -1,0 +1,5 @@
+.sk{
+    background-color: green;
+    transition: width 0.3s ease;
+    width:1000px;
+}

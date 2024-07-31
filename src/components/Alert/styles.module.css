@@ -1,0 +1,16 @@
+/* styles/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+/* Your existing styles */
+.roun {
+  border-radius: 25px;
+  height: 500px; 
+}
+.crosround {
+  border-radius: 50%;
+}
+.sk {
+  font-family: 'Bad Script', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
